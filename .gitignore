@@ -1,0 +1,17 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Ambiente/IDE
+.vscode/
+.idea/
+
+# Arquivos sensíveis
+.env
+*.secret
+
+# Sistemas operacionais
+.DS_Store (Mac)
+Thumbs.db (Windows)
