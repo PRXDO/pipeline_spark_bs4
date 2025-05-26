@@ -1,4 +1,4 @@
-asttokens==3.0.0
+    asttokens==3.0.0
 beautifulsoup4==4.13.4
 bs4==0.0.2
 certifi==2025.4.26
@@ -27,6 +27,7 @@ prompt_toolkit==3.0.51
 psutil==7.0.0
 pure_eval==0.2.3
 py4j==0.10.9.7
+pyarrow==20.0.0
 Pygments==2.19.1
 pyspark==3.5.5
 python-dateutil==2.9.0.post0

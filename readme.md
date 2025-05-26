@@ -1,11 +1,11 @@
-Pipeline
+# Pipeline de Dados
 
-bibliotecas utilizadas
+Pipeline de dados desenvolvida para fazer um web scrapping, utilizando python em conjunto com as biliotecas: 
 
-bs4
-pandas
-re
-requests
-pyspark
-ipykernel
-xlmx
+- pandas 
+- BeautifulSoup4 
+- pyspark
+- pyarrow
+- re
+- requests
+- ipykernel
