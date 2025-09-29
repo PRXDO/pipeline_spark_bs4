@@ -1,4 +1,4 @@
-    asttokens==3.0.0
+asttokens==3.0.0
 beautifulsoup4==4.13.4
 bs4==0.0.2
 certifi==2025.4.26
